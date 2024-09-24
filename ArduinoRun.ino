@@ -6,7 +6,7 @@ like an indicator of how much force in put on the sensor.
 
 Made by Harry zhao
 Date: 2024/9/24
-
+Based on: https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogReadSerial
 */
 
 int sensorValue0;
